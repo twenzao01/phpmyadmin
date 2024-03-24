@@ -55,7 +55,6 @@ phpunit.xml
 cache.properties
 # Composer
 composer.lock
-/vendor/
 # NPM
 /node_modules/
 phpstan.neon
