@@ -160,4 +160,3 @@ $cfg['SaveDir'] = '';
  * You can find more configuration options in the documentation
  * in the docs/ folder or at <https://docs.phpmyadmin.net/>.
  */
-
