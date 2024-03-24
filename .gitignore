@@ -56,7 +56,6 @@ cache.properties
 # Composer
 composer.lock
 # NPM
-/node_modules/
 phpstan.neon
 # Infection
 infection.json
