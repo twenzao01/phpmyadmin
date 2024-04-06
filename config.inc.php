@@ -27,9 +27,6 @@ $i++;
 /* Authentication type */
 $cfg['Servers'][$i]['auth_type'] = 'cookie';
 /* Server parameters */
-$cfg['Servers'][$i]['host'] = 'twenzao-staging-db-server.mysql.database.azure.com';
-$cfg['Servers'][$i]['user'] = 'staging_q7f3dELy';
-$cfg['Servers'][$i]['password'] = 'ntTGhJETeT9b7kegJLJnbNTbPqnYUPfJ';
 $cfg['Servers'][$i]['compress'] = false;
 $cfg['Servers'][$i]['AllowNoPassword'] = false;
 
